@@ -5,12 +5,6 @@ Chatlong is an Arabic mental health chatbot designed to engage in supportive con
 
 ---
 
-### **Check It Out!**  
-Access the **Chatlong - Arabic Mental Health Chatbot Streamlit App** here:  
-[Chatlong - Arabic Mental Health Chatbot Streamlit App](https://chatlong-fclzmupbxfnpmvtrkng5qr.streamlit.app/)
-
----
-
 ### **Features**  
 - Provides mental health support in Arabic.  
 - Understands user inputs using Azure Text Analytics.  
